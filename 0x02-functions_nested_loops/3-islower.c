@@ -5,7 +5,7 @@
  *
  * @c: parameter to be printed
  *
- * Return: 1 if it is a lower cas
+ * Return: 1 if it is a lower case
  * and 0 otherwise
  */
 
