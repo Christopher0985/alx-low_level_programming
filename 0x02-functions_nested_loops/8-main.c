@@ -5,9 +5,8 @@
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
-	Jack_bauer();
+	jack_bauer();
 	return (0);
 }
