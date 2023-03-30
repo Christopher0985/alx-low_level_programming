@@ -1,4 +1,4 @@
-  section .data
+ section .data
 hello:	db "Hello, Holberton",10,0
 format:	db "%s",0
 
@@ -17,5 +17,3 @@ main:
     pop rbp
     mov rax, 0
     ret
-message: db "hello, Holberton", 0
-format: db "%s", 10, 0
